@@ -1,0 +1,4 @@
+c:\users\slobbery\documents\visual studio 2015\Projects\Game\Model\bin\Debug\Model.exe.config
+c:\users\slobbery\documents\visual studio 2015\Projects\Game\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+d:\C#\2016\Game\Model\bin\Debug\Model.exe.config
+d:\C#\2016\Game\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
